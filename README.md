@@ -4,7 +4,7 @@
 - This application is a simple shopping cart, with the ability to add, remove and edit.
 - The application can be tested from the [link](https://s1een.github.io/react-grocery-bud-app/ "link").
 
-# React Menu App
+# React Grocery Bud App
 
 ![](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg)
 
